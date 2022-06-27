@@ -2,6 +2,8 @@
 This is starter project using react in which filer and search cards .
 
 Deployed Link : https://rolodexas.netlify.app/
+![Screenshot (384)](https://user-images.githubusercontent.com/67889306/175858838-02303689-98bf-4126-ae24-d3a856994f39.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
