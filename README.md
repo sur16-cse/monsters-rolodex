@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# monsters-rolodex
+This is starter project using react in which filer and search cards .
+
+Deployed Link : https://rolodexas.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
